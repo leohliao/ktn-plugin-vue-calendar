@@ -1,0 +1,37 @@
+{
+  "manifest_version": 1,
+  "version": 1,
+  "type": "APP",
+  "desktop": {
+    "js": [
+      "js/bundle/desktop_bundle.js"
+    ],
+    "css": [
+      "css/desktop.css"
+    ]
+  },
+  "icon": "image/icon.png",
+  "config": {
+    "html": "html/config.html",
+    "js": [
+      "js/bundle/config_bundle.js"
+    ],
+    "css": [
+      "css/config.css"
+    ]
+  },
+  "name": {
+    "en": "Kintone Custom Calendar"
+  },
+  "description": {
+    "en": "This is a customized calendar built with vue from scratch"
+  },
+  "mobile": {
+    "js": [
+      "js/bundle/desktop_bundle.js"
+    ],
+    "css": [
+      "css/mobile.css"
+    ]
+  }
+}
