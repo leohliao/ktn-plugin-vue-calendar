@@ -11,6 +11,9 @@ module.exports = {
     path: path.resolve(__dirname, 'src', 'js', 'bundle'),
     filename: '[name]_bundle.js'
   },
+  resolve: {
+    extensions: ['.js', '.vue'],
+  },
   module: {
     rules: [{
         test: /\.css$/,

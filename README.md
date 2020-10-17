@@ -1,3 +1,5 @@
-# Kintone Custom Calendar 
+# Kintone Custom Calendar Plugin
 
-https://css-tricks.com/lets-make-a-vue-powered-monthly-calendar/
+- [Reference]
+
+[Reference]: https://css-tricks.com/lets-make-a-vue-powered-monthly-calendar/
